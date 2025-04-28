@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Divya Kuruvilla 
-- 3rd Year at the University of Virginia
+- 4th Year at the University of Virginia
 - Computer Science Major in the School of Engineering with a Data Science Minor 
 <!--
 **divyajmk/divyajmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
